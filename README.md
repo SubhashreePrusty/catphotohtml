@@ -1,8 +1,5 @@
-#1 htmlcatphoto
-
-basic html code to build a webpage about cats.
 
 
-#2
+# colormarkers
 
-basic html code to build a webpage for a cafe menu.
+html and css code to create 3 color markers.
