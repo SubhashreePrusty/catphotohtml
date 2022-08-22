@@ -24,3 +24,9 @@ html and css code to make a registration form.
 #5 Rothko Painting
 
 CSS Box Model of a Rothko Painting.
+
+
+#6 PhotoGallery
+
+CSS FlexBox to build a photo gallery.
+
