@@ -30,3 +30,7 @@ CSS Box Model of a Rothko Painting.
 
 CSS FlexBox to build a photo gallery.
 
+
+#7 Nutrition label
+
+Typography to build a Nutrition label.
