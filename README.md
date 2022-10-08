@@ -45,4 +45,39 @@ Typography to build a Nutrition label.
 html and css code to build a quiz.
 
 
-# 
+
+# Tribute Page
+
+code to build a tribute page for Alan Turing. 
+
+
+
+# Picasso Painting 
+
+code to design a Picasso painting. 
+
+
+
+# Piano
+
+html and css code to make a piano. 
+
+
+
+# Ferris wheel 
+
+code to animate a ferris wheel. 
+
+
+
+# Magazine 
+
+code to build a sample of a magazine. 
+
+
+
+# City Skyline 
+
+code to design a city skyline. 
+
+
